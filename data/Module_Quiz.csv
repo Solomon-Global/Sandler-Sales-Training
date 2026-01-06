@@ -1,0 +1,706 @@
+module_id,question_id,question_order,question_text,Answer
+why-have-a-system,q1,1,How have traditional sales strategies remained ineffective over time?,"CA: Traditional strategies like being aggressive, showing enthusiasm, making polished presentations, overcoming objections, and closing repeatedly have not changed in 50 years, so prospects have stopped listening and learned to control the process.
+IA: Modern sales strategies focus primarily on product speed and automation, making relationship skills less important.
+IA: Traditional sales methods have disappeared entirely because prospects are now more trusting and passive.
+IA: The primary issue in modern selling is that prospects no longer care about presentations or objections at all."
+why-have-a-system,q2,2,What are the four different positive results you can get with the Sandler Selling System?,"CA: A yes, a no, a referral, or a clear future commitment.
+IA: A demo booking, a trial sign-up, a price negotiation, or a follow-up email.
+IA: A partial yes, a maybe later, a budget discovery, or a competitor discussion.
+IA: A request for more information, a stalled deal, a voicemail exchange, or an objection that needs handling."
+why-have-a-system,q3,3,"According to the Sandler trainer, why do salespeople generally fail?","CA: Salespeople generally fail because they are systemless, using outdated concepts, strategies, and techniques rather than lacking motivation or ability.
+IA: Most salespeople fail because prospects simply don’t have enough budget in modern markets.
+IA: Salespeople struggle primarily because they ask too many questions instead of presenting.
+IA: Failure usually comes from spending too much time with highly qualified prospects."
+why-have-a-system,q4,4,How do prospects typically view the buyer-seller relationship?,"CA: Salespeople generally fail because they are systemless, using outdated concepts, strategies, and techniques rather than lacking motivation or ability.
+IA: Most salespeople fail because prospects simply don’t have enough budget in modern markets.
+IA: Salespeople struggle primarily because they ask too many questions instead of presenting.
+IA: Failure usually comes from spending too much time with highly qualified prospects."
+why-have-a-system,q5,5,How does the Sandler system suggest salespeople handle being stuck in the typical four-step process?,"CA: The Sandler system encourages taking a new approach that creates a win-win rather than chasing unresponsive prospects.
+IA: The Sandler system recommends increasing follow-up frequency until the prospect responds.
+IA: The system encourages repeatedly overcoming objections to wear down resistance.
+IA: Sandler suggests presenting more features to regain the prospect’s attention."
+why-have-a-system,q6,6,Why does the Sandler selling system use a submarine to represent the system?,"CA: The Sandler system encourages taking a new approach that creates a win-win rather than chasing unresponsive prospects.
+IA: The Sandler system recommends increasing follow-up frequency until the prospect responds.
+IA: The system encourages repeatedly overcoming objections to wear down resistance.
+IA: Sandler suggests presenting more features to regain the prospect’s attention."
+why-have-a-system,q7,7,What are the three most important things to find out early in a sales call according to Sandler?,"CA: The Sandler system encourages taking a new approach that creates a win-win rather than chasing unresponsive prospects.
+IA: The Sandler system recommends increasing follow-up frequency until the prospect responds.
+IA: The system encourages repeatedly overcoming objections to wear down resistance.
+IA: Sandler suggests presenting more features to regain the prospect’s attention."
+why-have-a-system,q8,8,How should a salesperson present their solution in the fulfillment step?,"CA: The Sandler system encourages taking a new approach that creates a win-win rather than chasing unresponsive prospects.
+IA: The Sandler system recommends increasing follow-up frequency until the prospect responds.
+IA: The system encourages repeatedly overcoming objections to wear down resistance.
+IA: Sandler suggests presenting more features to regain the prospect’s attention."
+why-have-a-system,q9,9,How can a salesperson avoid ending up at Wimp Junction?,"CA: Follow your own sales system and maintain control instead of defaulting to the prospect’s system.
+IA: Give early discounts to prevent prospects from taking control.
+IA: Allow the prospect to dictate the call to build trust.
+IA: Focus mainly on objection handling at the end of the call."
+
+why-have-a-system,q10,10,What kind of responses do you want from prospects?,"CA: Follow your own sales system and maintain control instead of defaulting to the prospect’s system.
+IA: Give early discounts to prevent prospects from taking control.
+IA: Allow the prospect to dictate the call to build trust.
+IA: Focus mainly on objection handling at the end of the call."
+bonding-rapport,q1,11,How can a small detail like offering coffee affect a sales call?,"CA: Offering coffee and how you respond can instantly build or break rapport in a sales interaction.
+IA: Coffee is offered simply as a courtesy and has no effect on rapport.
+IA: Declining coffee always shows confidence and improves your sales position.
+IA: Accepting coffee is always unprofessional and should be avoided."
+
+bonding-rapport,q2,12,What is the ordinary meaning of rapport in the context of sales?,"CA: Rapport means relating or sharing a common connection with another person.
+IA: Rapport means impressing someone with product knowledge.
+IA: Rapport means convincing someone to like your offer quickly.
+IA: Rapport means mirroring body language perfectly every time."
+
+bonding-rapport,q3,13,Why is physiology important in communication?,"CA: Physiology accounts for 55% of communication and shapes how prospects perceive you.
+IA: Physiology only matters at the end of the sales presentation.
+IA: Physiology accounts for less than 10% of communication.
+IA: Body language is irrelevant as long as you speak confidently."
+
+bonding-rapport,q4,14,How can you identify someone's primary sensory dominance through their speech?,"CA: You identify sensory dominance by listening to speech rate and word choice.
+IA: Sensory dominance is determined only by what products the prospect prefers.
+IA: Sensory dominance can be identified by posture alone.
+IA: All prospects use the same sensory style regardless of speech patterns."
+
+bonding-rapport,q5,15,What is an example of a visual detail that distracted a prospect despite the salesperson's impressive appearance?,"CA: A salesperson’s appearance mistake (white socks) distracted the prospect from the sales message.
+IA: The prospect was distracted because the salesperson spoke too loudly.
+IA: The sale failed because the product features were too complicated.
+IA: The prospect was distracted because the salesperson used too many visual aids."
+
+bonding-rapport,q6,16,What is the benefit of selling to an auditory prospect?,"CA: Auditory prospects often become loyal repeat customers who recommend the product to others.
+IA: Auditory prospects rarely buy again and seldom share their experiences.
+IA: Auditory prospects only buy once and do not respond to follow-up.
+IA: Auditory prospects rely mainly on written reviews before buying."
+
+bonding-rapport,q7,17,What words do kinesthetics frequently use?,"CA: Kinesthetic prospects use touch-related words like warm, feel, handle, and firm.
+IA: Kinesthetic prospects mostly use visual metaphors like “I see what you mean.”
+IA: Kinesthetic prospects speak quickly using analytical terms.
+IA: Kinesthetic prospects avoid emotional or sensory words entirely."
+
+bonding-rapport,q8,18,What is the best way to gain control in a sales conversation according to Sandler?,"CA: The best way to gain control is to help the prospect feel okay.
+IA: The best way to gain control is to dominate the conversation early.
+IA: The best way to gain control is to overwhelm the prospect with facts.
+IA: The best way to gain control is to close as quickly as possible."
+
+bonding-rapport,q9,19,What are the two kinds of strokes in transactional analysis?,"CA: Positive strokes are warm fuzzies; negative strokes are cold pricklies.
+IA: Strokes only refer to compliments, never criticism.
+IA: Cold pricklies are used to motivate prospects to act quickly.
+IA: Warm fuzzies are a closing technique used after the presentation."
+
+bonding-rapport,q20,10,What does the phrase 'You are my friend when you walk in my moccasins' imply in the Sandler context?,"CA: It means understanding and empathizing with the prospect’s point of view.
+IA: It means agreeing with everything the prospect says.
+IA: It means steering the conversation back to features and benefits.
+IA: It means focusing only on presenting your own perspective."
+
+upfront-contracts,q1,21,What problem can occur if you don't establish an upfront contract before a sales call?,"CA: You can lose control of the sales call before it starts, resulting in rushed conversations and unclear expectations.
+IA: You can only lose control of a call at the close, never at the beginning.
+IA: Losing control early usually helps build rapport.
+IA: Control is not important if you have a strong product."
+
+upfront-contracts,q2,22,What should you do if you encounter stalls or objections during prospecting calls?,"CA: You should seek additional guidance from your trainer to handle stalls and objections.
+IA: You should ignore stalls because they disappear on their own.
+IA: You should handle all objections by offering discounts.
+IA: You should avoid asking for help, as it weakens your sales position."
+
+upfront-contracts,q3,23,What is the role of questions in an upfront contract?,"CA: Questions help both sides understand needs and determine fit and next steps.
+IA: Questions should be minimized to avoid slowing the sales process.
+IA: Questions are mainly used to qualify budget only.
+IA: Questions are unnecessary if the salesperson knows the script."
+
+upfront-contracts,q4,24,Why might salespeople forget to set an upfront contract according to the text?,"CA: Salespeople may get excited about problems and forget to set their own call agenda.
+IA: Salespeople should avoid setting agendas to stay flexible.
+IA: Stating objectives reduces rapport and should be avoided.
+IA: The agenda should only be set after the prospect commits to buying."
+
+upfront-contracts,q5,25,Why is it important for the salesperson to understand the prospect's pain early in the sales process?,"CA: Understanding pain early allows intelligent offers and helps decide whether to continue.
+IA: Pain should be explored only at the end of the call.
+IA: Pain is irrelevant unless the buyer asks about price.
+IA: Pain is optional because most prospects buy without it."
+
+upfront-contracts,q6,26,What is the benefit of openly admitting to a problem like difficulty asking for the sale?,"CA: It invites the prospect to help solve the problem, creating honesty and collaboration.
+IA: It shifts all responsibility to the prospect.
+IA: It avoids discussion of the real issue entirely.
+IA: It increases pressure on the prospect to respond quickly."
+
+upfront-contracts,q7,27,What happens if a salesperson ignores a prospect's objection or stall?,"CA: If an objection isn’t eliminated, the opportunity may be lost.
+IA: Objections are unimportant and rarely impact the sale.
+IA: Objections should be ignored until after the close.
+IA: Any objection means the prospect is not qualified and should be dropped immediately."
+
+upfront-contracts,q8,28,What are the acceptable responses George can give after the demo?,"CA: Acceptable responses are clear yes/no signals; vague replies like “Let me get back to you” are not acceptable.
+IA: “Let me get back to you” is the strongest buying signal.
+IA: A vague answer is always a sign of strong interest.
+IA: Any response is acceptable as long as the salesperson keeps talking."
+
+upfront-contracts,q9,29,What is the purpose of a rough draft contract in sales proposals?,"CA: Rough drafts create an initial proposal that is reviewed before finalizing.
+IA: Rough drafts are binding agreements that close the deal.
+IA: Rough drafts replace the need for any prospect feedback.
+IA: Rough drafts are used only after the prospect has already agreed to buy."
+
+upfront-contracts,q10,30,What is a 'milk run' in the context of this role play?,"CA: A milk run is regularly visiting the same customer even without orders.
+IA: A milk run is a rapid-fire calling session to many new leads.
+IA: A milk run is a pricing strategy used in competitive bidding.
+IA: A milk run refers to offering free samples to prospects."
+
+upfront-contracts,q11,31,Why is it important to tell prospects upfront what will happen to them?,"CA: Because people aren’t afraid if you tell them upfront what will happen, and you can’t blame them for breaking rules you never stated.
+IA: Because telling prospects nothing builds curiosity and urgency.
+IA: Because upfront explanations weaken your authority.
+IA: Because prospects prefer to guess the process rather than be told."
+
+questioning-1,q1,32,Why might salespeople struggle with not sharing their knowledge early?,"CA: Salespeople struggle because they want to share their expertise and it’s hard to hold back after investing time learning it.
+IA: Salespeople struggle because prospects always want full technical explanations.
+IA: Salespeople struggle because sharing everything early guarantees faster closes.
+IA: Salespeople struggle because prospects prefer salespeople who talk nonstop."
+questioning-1,q2,33,What is the dummy curve in sales according to David Sandler?,"CA: The dummy curve prevents early information dumping by moving through dummy amateur and professional phases.
+IA: The dummy curve is designed only for overcoming price objections.
+IA: The dummy curve is mainly for delivering complex technical explanations.
+IA: The dummy curve replaces discovery and rapport building."
+questioning-1,q3,34,What is the significance of the statement 'Selling is a Broadway play performed by a psychiatrist'?,"CA: Selling involves acting and psychological skills to understand and influence the prospect effectively.
+IA: Selling works best when you show your true personality without structure.
+IA: Selling requires no psychology — only product knowledge.
+IA: Selling is purely about price negotiation."
+questioning-1,q4,35,What does it mean that the salesperson is 'staying out of the box' and 'in the professional phase of the dummy curve'?,"CA: It means the salesperson is using the dummy curve professionally adapting the conversation to stay in control.
+IA: It means the salesperson is avoiding asking any questions.
+IA: It means the salesperson should lead with features immediately.
+IA: It means the salesperson is hiding their intentions from the prospect."
+questioning-1,q5,36,What does the speaker imply about being yourself during a sales call?,"CA: Being yourself won’t work because prospects won’t buy if you simply act like yourself.
+IA: Being yourself is always the most effective sales strategy.
+IA: Being yourself guarantees faster rapport.
+IA: Being yourself eliminates the need for technique or preparation."
+questioning-1,q6,37,What is the rule David Sandler gives about selling and educating?,"CA: The rule is sell today and educate tomorrow — let the prospect get their picture first.
+IA: The rule is educate fully before selling anything.
+IA: The rule is bombard prospects with features as early as possible.
+IA: The rule is always provide detailed technical explanations upfront."
+questioning-1,q7,38,What is the main challenge when making changes to a prospect's mental picture during a sales interview?,"CA: Changing a prospect’s mental picture may make them uncomfortable so it must be handled carefully.
+IA: Prospects always welcome additional details and changes to their picture.
+IA: The salesperson should control the picture entirely without input.
+IA: Prospects rarely form mental pictures so this is not a concern."
+questioning-1,q8,39,What is the difference between a professional salesperson and a dummy as per David Sandler's explanation?,"CA: A professional repeats what he did as a dummy but now does it deliberately and on purpose.
+IA: A professional avoids dummy-curve behaviors entirely.
+IA: A professional focuses mainly on presenting features.
+IA: A professional no longer asks questions and leads with solutions."
+questioning-1,q9,40,What does 'What you know can hurt you so dummy up' mean?,"CA: It means sharing too much knowledge can be harmful; sometimes it’s better to hold back and listen.
+IA: It means you should always answer every question immediately.
+IA: It means the more you talk the more control you gain.
+IA: It means prospects prefer long technical explanations early in the process."
+questioning-2,q1,41,What does reversing help salespeople avoid?,"CA: Giving away expertise before knowing if the prospect needs or wants it, known as “spilling your candy in the lobby,” which also leads to premature presentations.
+IA: Giving too little information makes prospects distrustful.
+IA: Sharing expertise early shortens the sales cycle.
+IA: Prospects expect full explanations before any questioning."
+questioning-2,q2,42,What example is used to illustrate how people learn not to ask direct questions?,"CA: The story of little Jimmy shows how people avoid asking the real question directly and instead use smokescreen questions to avoid confrontation.
+IA: The story shows children are naturally manipulative.
+IA: The lesson is that persistence always leads to getting what you want.
+IA: The story illustrates why punishment improves communication."
+questioning-2,q3,43,How does the prospect respond to the statement about not being able to make a decision?,"CA: The prospect says “No” but clarifies they would buy if the house were right and within budget.
+IA: The prospect is firmly opposed to buying anything.
+IA: The prospect is trying to negotiate aggressively.
+IA: The prospect is only interested in renting."
+questioning-2,q4,44,What happens when a salesperson talks too much during a sales conversation?,"CA: Talking too much boxes the salesperson in, causes the prospect to stop talking, and results in missed needs and objections.
+IA: Talking more helps dominate the conversation and close faster.
+IA: Prospects prefer salespeople who do most of the talking.
+IA: Control increases when the salesperson fills silence."
+questioning-2,q5,45,Why is nurturing important when using reversing techniques?,"CA: Nurturing makes questions sound caring, sincere, and concerned instead of abrasive or confrontational.
+IA: Nurturing is mainly used to soften pricing discussions.
+IA: Nurturing is a technique used only at the close.
+IA: Nurturing replaces the need for questioning skills."
+questioning-2,q6,46,What does Sandler say about traditional closing techniques?,"CA: He recommends abandoning traditional closing techniques and letting prospects close themselves using reversing.
+IA: He suggests using stronger closing pressure.
+IA: He recommends presenting more features at the close.
+IA: He advises delaying decisions indefinitely."
+questioning-2,q7,47,How does emotional involvement affect a prospect's awareness during a sales conversation?,"CA: Emotional involvement distracts prospects so they don’t notice the sales techniques being used.
+IA: Emotional involvement makes prospects more analytical.
+IA: Emotional involvement increases resistance to buying.
+IA: Emotional involvement eliminates the need for trust."
+questioning-2,q8,48,What does the 'off the record' reverse do in a sales conversation?,"CA: It lowers pressure by framing questions as confidential, which encourages openness.
+IA: It increases urgency by limiting information.
+IA: It pressures prospects into revealing budget.
+IA: It discourages honest responses."
+questioning-2,q9,49,How can a salesperson handle the phrase 'I'll get back to you' from a prospect?,"CA: The salesperson uses clarifying questions to uncover what “I’ll get back to you” really means.
+IA: The salesperson should accept the statement and move on.
+IA: The phrase always means strong buying interest.
+IA: The best response is to present pricing again."
+questioning-2,q10,50,What happens when a question is reversed by a prospect?,"CA: When reversed, the prospect will always redefine the question.
+IA: Reversing causes prospects to end the conversation.
+IA: Reversing only works with analytical buyers.
+IA: Reversing is a closing technique rather than a questioning tool."
+
+pain,q1,51,"What is the purpose of the pain step in the Sandler sales system?","CA: To help the prospect emotionally connect to problems that your product or service may solve.
+IA: To present features and benefits early.
+IA: To pressure the prospect into making a decision.
+IA: To qualify budget before discovery."
+pain,q2,52,"What is the key difference between pain and interest in Sandler selling?","CA: Pain is emotional, while interest is intellectual curiosity.
+IA: Pain is logical, while interest is emotional.
+IA: Pain relates only to budget, interest to authority.
+IA: Pain and interest are the same thing."
+pain,q3,53,"Why should salespeople avoid digging into pain like trained psychologists?","CA: Because salespeople are not clinically trained and must stay within a sales role.
+IA: Because prospects dislike emotional discussions.
+IA: Because it makes the sales cycle too long.
+IA: Because pain should only be handled at the close."
+pain,q4,54,"What is the main objective of determining fit versus no fit during the pain step?","CA: To create a win-win outcome by confirming whether your solution truly helps the prospect.
+IA: To outperform competitors.
+IA: To keep the conversation going as long as possible.
+IA: To justify a higher price."
+pain,q5,55,"What is negative reverse selling designed to do?","CA: Encourage prospects to talk more by reducing pressure and resistance.
+IA: Force prospects to defend their objections.
+IA: Increase urgency by challenging the prospect.
+IA: Push the prospect toward a quick close."
+pain,q6,56,"Why do features and benefits fail to sell on their own?","CA: Because prospects hear the same features and benefits from many competitors.
+IA: Because features are too technical.
+IA: Because prospects only care about price.
+IA: Because benefits should be avoided entirely."
+pain,q7,57,"What happens in the critical stage of the Sandler pain formula?","CA: The prospect feels urgent pain and is ready to fix the problem immediately.
+IA: The prospect compares vendors.
+IA: The prospect delays the decision.
+IA: The prospect asks for a presentation."
+pain,q8,58,"What is the purpose of the Sandler pain funnel?","CA: To uncover the real problem, its causes, and its personal impact.
+IA: To follow a scripted list of questions.
+IA: To move quickly to pricing.
+IA: To qualify authority early."
+pain,q9,59,"What is the correct mindset when uncovering a prospect’s pain?","CA: Guiding the prospect to discover their own pain.
+IA: Convincing the prospect they have pain.
+IA: Diagnosing the problem for the prospect.
+IA: Educating the prospect on solutions."
+pain,q10,60,"What distinguishes real pain from a pain indicator?","CA: Real pain is emotional, not just intellectual.
+IA: Real pain always includes budget concerns.
+IA: Pain indicators are stronger than real pain.
+IA: Real pain is always spoken clearly."
+pain,q11,61,"Why is active listening critical during the pain step?","CA: It builds trust and encourages the prospect to share real pain.
+IA: It shortens the sales cycle.
+IA: It replaces the need for questioning.
+IA: It increases control over the prospect."
+pain,q12,62,"What is the purpose of the “Let You and Him Fight” technique?","CA: To create contrast without directly attacking the competition.
+IA: To openly criticise competitors.
+IA: To force the prospect to choose sides.
+IA: To introduce pricing pressure."
+pain,q13,63,"What is the fundamental Sandler rule regarding pain?","CA: No pain, no sale.
+IA: No budget, no sale.
+IA: No urgency, no sale.
+IA: No presentation, no sale."
+budget,q1,1,"What is the primary focus of the Budget step in the Sandler selling system?","CA: Discussing money, budgets, where the money comes from, and who controls spending.
+IA: Presenting features and benefits.
+IA: Building rapport only.
+IA: Demonstrating technical expertise."
+budget,q2,2,"Why does the Sandler system recommend dealing with money issues early?","CA: To qualify prospects early and avoid wasting time later in the sales process.
+IA: To shorten presentations.
+IA: To eliminate objections entirely.
+IA: To remove competition."
+budget,q3,3,"What is the recommended response when a prospect says they have no budget?","CA: Respond empathetically and ask how they plan to move forward.
+IA: End the meeting immediately.
+IA: Push the prospect to find the money.
+IA: Move straight to a proposal."
+budget,q4,4,"Why is asking for budget 'in round numbers' effective?","CA: It feels non-threatening and encourages honest sharing.
+IA: It avoids discussing money.
+IA: It speeds up the closing process.
+IA: It allows prices to be increased later."
+budget,q5,5,"What is the purpose of the monkey’s fist strategy?","CA: To make large buying decisions easier by selling a smaller first step.
+IA: To discount large deals heavily.
+IA: To avoid large sales.
+IA: To replace negotiation."
+budget,q6,6,"Why should salespeople avoid projecting their own financial limits onto prospects?","CA: Because what feels expensive to the salesperson may be affordable to the prospect.
+IA: Because prospects always have more money.
+IA: Because pricing should never be discussed.
+IA: Because it weakens authority."
+budget,q7,7,"Why does Sandler stress addressing payment terms upfront?","CA: To prevent future collection problems and misunderstandings.
+IA: To pressure prospects into buying.
+IA: To delay the decision step.
+IA: To justify higher prices."
+budget,q8,8,"Why does Sandler recommend using the word 'investment' instead of 'cost'?","CA: It implies a return rather than a simple cash outlay.
+IA: It sounds more professional.
+IA: It avoids budget discussions.
+IA: It guarantees a sale."
+budget,q9,9,"When is a sale truly closed according to the Sandler rules?","CA: When payment is received, taken to the bank, and cleared.
+IA: When the contract is signed.
+IA: When the proposal is accepted.
+IA: When the prospect agrees verbally."
+decision,q1,1,"What is the primary objective of the decision step?","CA: To understand how the prospect makes decisions and secure clarity.
+IA: To close aggressively.
+IA: To present features.
+IA: To negotiate price."
+decision,q2,2,"Why should decision authority always be verified?","CA: Because decisions are often shared or delegated.
+IA: Because prospects exaggerate authority.
+IA: Because authority is irrelevant.
+IA: Because budget matters more."
+decision,q3,3,"What must be confirmed before offering a presentation?","CA: Agreement on pain budget and next steps.
+IA: Demo availability.
+IA: Feature requests.
+IA: Contract terms."
+decision,q4,4,"When should the intermediate decision-making technique be used?","CA: When the prospect is not the final decision maker.
+IA: When closing quickly.
+IA: When price resistance exists.
+IA: When budget is unknown."
+decision,q5,5,"Who typically holds final authority in organizations?","CA: The stars with control over resources.
+IA: End users.
+IA: Supporting staff.
+IA: Bit players."
+decision,q6,6,"Why should referral influence be explored early?","CA: To leverage internal credibility and access.
+IA: To bypass process.
+IA: To discount pricing.
+IA: To rush decisions."
+decision,q7,7,"According to Sandler when is a decision step strong?","CA: When a clear yes or no is required.
+IA: When prospects feel comfortable.
+IA: When demos are delivered.
+IA: When objections stop."
+comfort-zone-1,q1,1,"According to David Sandler, what primarily limits a salesperson’s performance?","CA: The salesperson’s self-concept and internal mindset.
+IA: Lack of advanced selling techniques.
+IA: Market conditions and competition.
+IA: Insufficient product knowledge."
+comfort-zone-1,q2,2,"What does Sandler mean when he says everyone is born a '10'?","CA: Everyone has inherent self-worth that does not change based on role performance.
+IA: Everyone starts with equal sales skills.
+IA: Everyone will succeed regardless of effort.
+IA: Everyone performs at the same level."
+comfort-zone-1,q3,3,"Why does traditional sales training often fail to create lasting improvement?","CA: It focuses on role skills without changing self-concept.
+IA: It introduces too many techniques.
+IA: It moves too slowly.
+IA: It relies too heavily on motivation."
+comfort-zone-1,q4,4,"What is the key difference between the I-side and the R-side?","CA: The I-side is who you are conceptually and the R-side is how you perform roles.
+IA: The I-side is income and the R-side is results.
+IA: The I-side is intelligence and the R-side is reasoning.
+IA: The I-side is influence and the R-side is reputation."
+comfort-zone-1,q5,5,"What typically happens when someone performs above their comfort zone?","CA: They unconsciously pull themselves back to their self-concept level.
+IA: They permanently raise their performance.
+IA: They eliminate fear.
+IA: They become reckless."
+comfort-zone-1,q6,6,"Which description best defines a winner according to Sandler?","CA: Someone who maintains a high self-image regardless of role outcomes.
+IA: Someone who never experiences failure.
+IA: Someone who outperforms others consistently.
+IA: Someone with superior skills."
+comfort-zone-1,q7,7,"What does the castle and moat metaphor represent?","CA: Protecting your self-image from being harmed by external events.
+IA: Avoiding accountability.
+IA: Isolating yourself emotionally.
+IA: Defending against competitors."
+comfort-zone-1,q8,8,"What does the phrase 'keep your belly button covered' mean?","CA: Protect your self-esteem and emotional boundaries.
+IA: Avoid emotional conversations.
+IA: Stay guarded with prospects.
+IA: Maintain physical distance."
+comfort-zone-1,q9,9,"What distinguishes role failure from personal failure?","CA: Role failure reflects performance, not self-worth.
+IA: Role failure means poor character.
+IA: Role failure always damages confidence.
+IA: Role failure should be avoided at all costs."
+comfort-zone-1,q10,10,"What is Sandler’s fundamental rule about growth?","CA: There is no growth without pain.
+IA: Growth comes from motivation alone.
+IA: Growth happens automatically with experience.
+IA: Growth requires comfort and security."
+closing,q1,73,"What does Sandler consider the actual close?","CA: The upfront contract covering pain, budget, and decision.
+IA: The final presentation.
+IA: The signed proposal.
+IA: Payment discussion."
+closing,q2,74,"What is the sole purpose of the presentation step?","CA: To confirm the close and get the order.
+IA: To persuade the prospect.
+IA: To educate in depth.
+IA: To overcome objections."
+closing,q3,75,"What is the biggest mistake in fulfillment?","CA: Failing to review pain, budget, and decision clearly.
+IA: Using too many slides.
+IA: Talking too little.
+IA: Asking for the order."
+closing,q4,76,"Why must commitment exist before doing work?","CA: To protect time and prevent competitor interference.
+IA: To speed implementation.
+IA: To justify pricing.
+IA: To increase rapport."
+closing,q5,77,"What does the thermometer technique help determine?","CA: Readiness to buy.
+IA: Authority level.
+IA: Budget size.
+IA: Product knowledge."
+closing,q6,78,"When is the best time to handle buyer’s remorse?","CA: During the post-sell step.
+IA: After delivery.
+IA: During negotiation.
+IA: Before presentation."
+closing,q7,79,"When is a sale officially closed in Sandler selling?","CA: When payment is received and clears.
+IA: When the proposal is accepted.
+IA: When the prospect agrees verbally.
+IA: When the presentation ends."
+call-reluctance,q1,1,"What is call reluctance in the Sandler system?","CA: Call reluctance is the hesitation or fear to make prospecting calls that limits sales activity.
+IA: Call reluctance is caused by poor pricing.
+IA: Call reluctance only affects new salespeople.
+IA: Call reluctance means prospects dislike being contacted."
+call-reluctance,q2,2,"What two primary factors cause call reluctance?","CA: Low self-concept and lack of prospecting skills.
+IA: Poor scripts and weak objection handling.
+IA: Market saturation and competition.
+IA: CRM systems and lead quality."
+call-reluctance,q3,3,"What mindset reduces pressure during prospecting calls?","CA: Acting financially independent and not needing the business.
+IA: Sounding enthusiastic and energetic.
+IA: Explaining credentials early.
+IA: Asking many questions quickly."
+call-reluctance,q4,4,"Why must a salesperson avoid sounding desperate on the phone?","CA: Desperation creates emotional pressure that prospects can feel.
+IA: Desperation increases urgency.
+IA: Desperation helps overcome objections.
+IA: Desperation builds empathy."
+call-reluctance,q5,5,"What is the Sandler rule when setting appointments?","CA: You must get invited in and never beg.
+IA: Push until the prospect agrees.
+IA: Offer discounts to secure meetings.
+IA: Explain benefits in detail first."
+call-reluctance,q6,6,"What is the purpose of the mini-contract?","CA: To gain permission to explain the reason for the call and give control to the prospect.
+IA: To close the sale immediately.
+IA: To qualify budget early.
+IA: To overcome objections."
+call-reluctance,q7,7,"What is the goal of a cold call in the Sandler system?","CA: To secure an appointment.
+IA: To educate the prospect.
+IA: To present the solution.
+IA: To negotiate pricing."
+call-reluctance,q8,8,"How should gatekeepers be handled according to Sandler?","CA: With a natural, conversational approach that avoids defensiveness.
+IA: With authority and job titles.
+IA: With detailed explanations.
+IA: With persistence."
+call-reluctance,q9,9,"What does ‘send me some literature’ usually indicate?","CA: A polite attempt to end the call.
+IA: Strong buying interest.
+IA: A pricing request.
+IA: Readiness to meet."
+call-reluctance,q10,10,"When can a salesperson truly fail at prospecting?","CA: Only when they stop prospecting.
+IA: When rejection rates are high.
+IA: When scripts stop working.
+IA: When leads are unqualified."
+BAT-average,q1,1,What are the three points of the Sandler Success Triangle?,"CA: Behavior attitude and technique.
+IA: Beliefs actions and timing.
+IA: Budget authority and trust.
+IA: Bonding pain and closing."
+BAT-average,q2,2,Why is attitude placed at the top of the triangle?,"CA: Because attitude drives beliefs thoughts feelings and actions.
+IA: Because technique is difficult.
+IA: Because behavior is automatic.
+IA: Because markets control outcomes."
+BAT-average,q3,3,What are the three points of the U-Triangle?,"CA: Spirit mind and body.
+IA: Goals plans and actions.
+IA: Personal presence tactics and strategy.
+IA: Qualify close and fulfill."
+BAT-average,q4,4,How should sales goals be set according to Sandler?,"CA: Based on behaviors you can control.
+IA: Based on revenue only.
+IA: Based on close rate.
+IA: Based on presentations."
+BAT-average,q5,5,What is Minimum Daily Behavior?,"CA: Consistent daily actions required for success.
+IA: Weekly motivation routine.
+IA: Closing script.
+IA: Cold call opener."
+BAT-average,q6,6,What are the three points of the technique triangle?,"CA: Personal presence tactics and strategy.
+IA: Attitude behavior and technique.
+IA: Qualify close and fulfill.
+IA: Spirit mind and body."
+BAT-average,q7,7,What is the correct fulfillment approach?,"CA: Review the contract and present only pain solving elements.
+IA: Present all features.
+IA: Focus on objections.
+IA: Delay value discussion."
+BAT-average,q8,8,What determines how you feel according to Sandler?,"CA: How you act determines how you feel.
+IA: How you feel determines how you act.
+IA: Results determine emotions.
+IA: Motivation precedes action."
+ta-sales-situation,q1,1,"What is the primary goal of Transactional Analysis in selling?","CA: To understand and manage ego states to improve communication and buying decisions.
+IA: To manipulate prospects emotionally.
+IA: To replace traditional sales techniques.
+IA: To close faster using pressure."
+ta-sales-situation,q2,2,"Why is the Adult ego state essential at the beginning of a sale?","CA: It establishes clear, honest agreements through upfront contracts.
+IA: It pressures the prospect logically.
+IA: It replaces emotional selling.
+IA: It removes the need for nurturing."
+ta-sales-situation,q3,3,"What role does the Child ego state play in buying decisions?","CA: It is the part that emotionally wants to buy.
+IA: It approves budgets.
+IA: It sets pricing.
+IA: It negotiates contracts."
+ta-sales-situation,q4,4,"Why is nurturing critical when a prospect is in pain?","CA: Because pain triggers the child ego state and must be soothed before logic resumes.
+IA: Because it accelerates closing.
+IA: Because it avoids objections.
+IA: Because it builds urgency."
+ta-sales-situation,q5,5,"What causes crossed transactions in sales?","CA: Responding from the wrong ego state.
+IA: Asking budget questions too early.
+IA: Presenting features.
+IA: Using humor incorrectly."
+ta-sales-situation,q6,6,"How does Sandler recommend preventing manipulative selling?","CA: By setting upfront contracts between Adult ego states.
+IA: By increasing urgency.
+IA: By controlling the conversation tightly.
+IA: By appealing to fear."
+ta-sales-situation,q7,7,"What is the correct ego-state mix in Sandler selling?","CA: 0% Critical Parent, 30% Adult, 70% Nurturing Parent.
+IA: 50% Adult, 50% Child.
+IA: 70% Adult, 30% Parent.
+IA: Equal balance of all states."
+ta-sales-situation,q8,8,"What is the ultimate risk of ignoring ego states in selling?","CA: Creating resistance, backouts, and emotional breakdowns.
+IA: Longer presentations.
+IA: Slower qualification.
+IA: Reduced product knowledge."
+setting-goals-1,q1,1,Which type of motivation produces lasting results?,"CA: Attitude motivation.
+IA: Incentive motivation.
+IA: Fear motivation.
+IA: Peer pressure."
+setting-goals-1,q2,2,Why do people often fail to achieve goals?,"CA: They do not write goals down or create a structured plan.
+IA: They lack talent.
+IA: They do not want success.
+IA: They are unlucky."
+setting-goals-1,q3,3,What role does visualization play in goal achievement?,"CA: It builds belief expectation and emotional connection to goals.
+IA: It replaces discipline.
+IA: It guarantees outcomes.
+IA: It removes obstacles."
+setting-goals-1,q4,4,Why should goals align with personal values?,"CA: To avoid inner conflict and maintain long-term motivation.
+IA: To increase authority.
+IA: To impress others.
+IA: To reduce effort."
+setting-goals-1,q5,5,What is the correct way to handle head trash?,"CA: Accept it understand it and minimize its impact.
+IA: Eliminate it completely.
+IA: Ignore it.
+IA: Replace it with pressure."
+setting-goals-1,q6,6,What is emphasized in the eleven-step plan of action?,"CA: Structure accountability flexibility and persistence.
+IA: Speed and intensity.
+IA: External rewards.
+IA: Competition with others."
+setting-goals-1,q7,7,What happens when someone has no personal plan?,"CA: They become part of someone else's plan.
+IA: They gain freedom.
+IA: They reduce responsibility.
+IA: They become more flexible."
+setting-goals-1,q8,8,Why does fear motivation fail over time?,"CA: People become desensitized hesitant or quit altogether.
+IA: Fear permanently increases performance.
+IA: Fear improves creativity.
+IA: Fear strengthens confidence."
+setting-goals-1,q9,9,According to Maslow what must be satisfied before self-actualization?,"CA: Lower-level needs such as physiological safety and social needs.
+IA: Recognition from others.
+IA: Financial wealth.
+IA: Career success."
+setting-goals-1,q10,10,Why is writing goals down important?,"CA: Written goals increase commitment clarity and follow-through.
+IA: Writing goals replaces action.
+IA: Writing goals guarantees success.
+IA: Writing goals reduces accountability."
+setting-goals-1,q11,11,What is the purpose of breaking goals into checkpoints?,"CA: To make large goals manageable and track progress over time.
+IA: To slow progress.
+IA: To avoid responsibility.
+IA: To reduce ambition."
+setting-goals-2,q1,1,Why does Sandler emphasize managing behavior instead of numbers?,"CA: Because behavior is within personal control and leads to predictable results.
+IA: Because numbers are meaningless.
+IA: Because managers dislike data.
+IA: Because behavior guarantees sales."
+setting-goals-2,q2,2,What is the purpose of the sales cookbook?,"CA: To create a personalized system for achieving income goals through behavior.
+IA: To track commissions only.
+IA: To motivate through fear.
+IA: To replace coaching."
+setting-goals-2,q3,3,What role does discomfort play in growth?,"CA: Growth cannot occur without pain or discomfort.
+IA: Discomfort should be avoided.
+IA: Discomfort signals failure.
+IA: Discomfort is optional."
+setting-goals-2,q4,4,Why do many people fail to reach goals despite setting them?,"CA: Because they fail to take consistent action.
+IA: Because goals are unrealistic.
+IA: Because markets change.
+IA: Because motivation fades."
+setting-goals-2,q5,5,What distinguishes winners from non winners in Sandler philosophy?,"CA: Winners take responsibility and persist through obstacles.
+IA: Winners avoid risk.
+IA: Winners rely on talent.
+IA: Winners wait for opportunity."
+your-formula-for-success,q1,1,"What does Sandler define as pay time?","CA: Time spent directly finding, qualifying, or servicing customers.
+IA: Time spent planning and organizing.
+IA: Training time.
+IA: Administrative time."
+your-formula-for-success,q2,2,"What does burning your bridges represent in sales?","CA: Full commitment with no fallback options.
+IA: Leaving your company.
+IA: Refusing to prospect.
+IA: Ending negotiations early."
+your-formula-for-success,q3,3,"Why is mental toughness critical in selling?","CA: Because rejection is constant and unavoidable.
+IA: Because emotions are unimportant.
+IA: Because selling is easy.
+IA: Because prospects expect it."
+your-formula-for-success,q4,4,"What is the role of self-esteem in sales success?","CA: It enables confidence and consistent performance.
+IA: It replaces skill.
+IA: It guarantees results.
+IA: It eliminates objections."
+your-formula-for-success,q5,5,"Why must product knowledge be timed correctly?","CA: Using it too early reduces its value.
+IA: Prospects dislike information.
+IA: It slows the sales cycle.
+IA: It replaces discovery."
+your-formula-for-success,q6,6,"What is the purpose of knowing your competition?","CA: To identify pain and build credibility.
+IA: To copy pricing.
+IA: To discredit rivals.
+IA: To avoid selling."
+your-formula-for-success,q7,7,"What is the purpose of an Attitude Behavior journal?","CA: To track behaviors and attitudes for long-term success.
+IA: To measure commissions.
+IA: To log objections.
+IA: To rate prospects."
+your-formula-for-success,q8,8,"Why is working a prospecting system essential?","CA: It keeps the pipeline full and predictable.
+IA: It reduces service work.
+IA: It shortens calls.
+IA: It eliminates referrals."
+your-formula-for-success,q9,9,"What distinguishes a strong selling system?","CA: It is believed in and works under pressure.
+IA: It uses advanced closes.
+IA: It avoids objections.
+IA: It guarantees sales."
+your-formula-for-success,q10,10,"How should the Sandler formula for success be implemented?","CA: Gradually, with guidance and repetition.
+IA: All at once.
+IA: Only during slumps.
+IA: Only by managers."
+reverse-selling,q1,1,What is the core principle of negative reverse selling?,"CA: Allowing prospects to decide by reducing pressure.
+IA: Increasing urgency.
+IA: Presenting features aggressively.
+IA: Overcoming objections with logic."
+
+reverse-selling,q2,2,Why does Sandler encourage going for the no?,"CA: It gives prospects control and comfort.
+IA: It disqualifies buyers quickly.
+IA: It shortens meetings.
+IA: It avoids qualification."
+
+reverse-selling,q3,3,How does the pendulum theory support reverse selling?,"CA: Movement creates momentum toward buying.
+IA: Pressure accelerates decisions.
+IA: Enthusiasm guarantees sales.
+IA: Silence builds trust."
+
+reverse-selling,q4,4,What is the main risk of traditional closing techniques?,"CA: They push prospects away.
+IA: They take too long.
+IA: They reduce commissions.
+IA: They eliminate objections."
+
+reverse-selling,q5,5,What behavior should a salesperson display opposite to prospect expectations?,"CA: Calm, negative, and non-pushy behavior.
+IA: High enthusiasm.
+IA: Strong persuasion.
+IA: Feature dumping."
+
+reverse-selling,q6,6,Why is stripping line effective?,"CA: It lets prospects close themselves.
+IA: It increases urgency.
+IA: It speeds presentations.
+IA: It avoids qualification."
+
+reverse-selling,q7,7,What happens when prospects feel in control?,"CA: They become more open and comfortable.
+IA: They delay decisions.
+IA: They demand discounts.
+IA: They disengage."
+
+reverse-selling,q8,8,Why must reverse selling be practiced extensively?,"CA: Because it feels unnatural at first.
+IA: Because it requires memorization.
+IA: Because prospects resist it.
+IA: Because it only works sometimes."
+
+reverse-selling,q9,9,What should you do if reverse selling doesn’t move the prospect?,"CA: Exit gracefully.
+IA: Push harder.
+IA: Argue benefits.
+IA: Offer discounts."
+
+reverse-selling,q10,10,What mindset is required to master reverse selling?,"CA: Patience and discipline.
+IA: Aggression.
+IA: Speed.
+IA: Script dependence."
+guts,q1,1,Why does Sandler say many salespeople fail after training even when they learned good techniques?,"CA: Because motivation fades and they do not apply the tools under real-world pressure without reinforcement and practice.
+IA: Because prospects dislike any training-based approach.
+IA: Because only product knowledge matters.
+IA: Because scripts always work without practice."
+guts,q2,2,What is the purpose of being a 'worst case scenario player' in sales?,"CA: To be mentally prepared for rejection and setbacks so you act decisively instead of freezing.
+IA: To assume every prospect is lying.
+IA: To avoid taking any risks.
+IA: To focus only on low-level buyers."
+guts,q3,3,"In bid environments, why should you ask for last look before bid day?","CA: To secure an advantage and confirm how decisions will be made before you invest heavy effort.
+IA: Because last look is a legal requirement.
+IA: Because bids are always won by the first vendor to submit.
+IA: Because relationships do not matter in bids."
+guts,q4,4,What does 'keep your antenna up' train you to do?,"CA: Stay alert, listen, observe, and act with intention instead of making lazy or social calls.
+IA: Talk nonstop to prove expertise.
+IA: Avoid notes and tracking.
+IA: Delay decisions until the next meeting."
+guts,q5,5,What is the risk of solving hard technical hurdles without confirming commitment?,"CA: You can keep jumping hurdles with no guarantee of winning, wasting time and resources.
+IA: It always builds goodwill that guarantees the deal.
+IA: It is only risky in small accounts.
+IA: There is no risk if your engineer is confident."
+guts,q6,6,What is a practical way to build guts without trying to be fearless all day?,"CA: Use short bursts of courage, like 10 minutes a week of asking the tough questions you avoid.
+IA: Only practice when you feel confident.
+IA: Avoid tough questions until renewal time.
+IA: Replace questions with longer presentations."
+guts,q7,7,How should you handle prospects trained to say 'the price is too high'?,"CA: Bring the price issue up early to untrain the pattern and uncover true intent.
+IA: Immediately cut your price in half.
+IA: Never discuss price until after the demo.
+IA: Argue that the prospect is wrong."
+guts,q8,8,What are the first three qualification checkpoints in Sandler's system?,"CA: Pain, money, and decision.
+IA: Features, benefits, and close.
+IA: Small talk, proposal, contract.
+IA: Email, voicemail, follow-up."
+guts,q9,9,What does Sandler mean by not letting the prospect answer a different question?,"CA: Stay persistent and politely insist on a direct answer to the question you asked.
+IA: Accept any answer to keep rapport.
+IA: Change topics whenever you feel tension.
+IA: Let the prospect control the entire conversation."
+guts,q10,10,What is the core takeaway of the module in one line?,"CA: No guts, no gains; you must act decisively and persist through discomfort to win.
+IA: No scripts, no sales.
+IA: No discounts, no pipeline.
+IA: No product knowledge, no credibility."
+
