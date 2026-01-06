@@ -1,13 +1,13 @@
-
 :root{
-  --primary:#0a5cff;
-  --accent:#00c2a8;
-  --bg:#f8fafc;
-  --card:#ffffff;
-  --text:#111827;
-  --muted:#6b7280;
-  --radius:16px;
-  --shadow:0 10px 24px rgba(15,23,42,.12);
+  --primary:#2d2622;        /* warm charcoal (site’s hero tone) */
+  --accent:#d0b67d;         /* bullion gold from the logo */
+  --bg:#f3f1ea;             /* warm off-white (paper-like) */
+  --card:#ffffff;           /* clean cards */
+  --text:#212121;           /* readable, near-black */
+  --muted:#6b645d;          /* warm grey for secondary text */
+  --radius:14px;
+  --shadow:0 10px 24px rgba(45,38,34,.12);
+}
 }
 *{box-sizing:border-box}
 html,body{
